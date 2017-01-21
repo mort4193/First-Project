@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="book.css">
+    <meta charset="utf-8">
+    <title>Cloak and Dagger | Barb Co</title>
+  </head>
+  <body>
+    <header>
+    <a href="book.html">
+    <h1>"Cloak and Dagger Barbershop"</h1>
+    <h2>where comfort meets mystery</h2>
+    <h3>503.206.7118 | 3608 N. Williams Avenue Portland, OR 97227 | @cloakanddaggerbarberco</h3>
+    </a>
+      <nav> 
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="book.html">Book</a></li>
+          <li><a href="barbers.html">Barbers</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="location.html">Location</a></li>
+          <li><a href="events/html">Events</a></li>  		
+        </ul>
+      </nav>
+        <nav> 
+        <ul id="services">
+          <li>Haircut</li>
+          <li>Line-Up/Trim</li>
+          <li>Buzz</li>
+          <li>Childs/Senior Cut</li>
+          <li>Shampoo</li>
+          <li>Flat Razor Shave</li>  		
+        </ul>
+      </nav>
+    </header>
+    <footer>
+      <p>&copy; 2016 C&amper;D</p>
+    </footer>  
+  </body>
+</html> 
